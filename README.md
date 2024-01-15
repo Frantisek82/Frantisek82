@@ -2,11 +2,17 @@
 
 ###
 
-<p align="left">My name is Frantisek.<br><br>I am currently studing to become a Full Stack Web Developer.<br><br>I have been recently learning about...</p>
+<p align="left">My name is <strong>Frantisek</strong>.</p>
+<br>
+<br>
+<p align="right">I am currently studing</p><p align="right">to become a <strong>Full Stack Web Developer</strong>.</p>
+<br>
+<br>
+<p align="left">I have been recently learning about...</p>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
