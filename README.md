@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is <strong>Frantisek</strong>.</p>
+<p align="left">My name is <strong>František</strong>.</p>
 <br>
 <br>
 <p align="right">I am currently studing</p><p align="right">to become a <strong>Full Stack Web Developer</strong>.</p>
