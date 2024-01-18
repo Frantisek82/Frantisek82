@@ -1,11 +1,11 @@
 <div align="center">
-      <img
-        src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif"
-        height="80"
-        width="300"
-        alt="GIF"
-      />
-    </div>
+  <img
+    src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif"
+    height="80"
+    width="300"
+    alt="GIF"
+  />
+</div>
 
 ###
 
