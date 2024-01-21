@@ -38,6 +38,9 @@
 >
   to become a <strong>Full Stack Web Developer</strong>.
 </p>
+<i 
+  align="center"
+  class="fa-solid fa-laptop-code"></i>
 <br />
 <br />
 <p
