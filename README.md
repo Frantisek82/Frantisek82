@@ -79,7 +79,7 @@
   />
   <img width="12" />
   <img
-    src="https://iconos8.es/icon/y7WGoWNuIWac/visual-studio"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"
     height="40"
     alt="vscode logo"
   />
