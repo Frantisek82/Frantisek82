@@ -55,7 +55,7 @@
 
 <div align="center">
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
     height="40"
     alt="github logo"
   />
