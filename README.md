@@ -67,6 +67,12 @@
   />
   <img width="12" />
   <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"
+    height="40"
+    alt="vscode logo"
+  />
+  <img width="12" />
+  <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
     height="40"
     alt="html5 logo"
@@ -79,9 +85,21 @@
   />
   <img width="12" />
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
     height="40"
-    alt="vscode logo"
+    alt="javascript logo"
+  />
+  <img width="12" />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg"
+    height="40"
+    alt="windows logo"
+  />
+  <img width="12" />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
+    height="40"
+    alt="linux logo"
   />
   <img width="12" />
 </div>
