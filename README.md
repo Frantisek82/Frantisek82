@@ -78,6 +78,12 @@
     alt="css3 logo"
   />
   <img width="12" />
+  <img
+    src="https://iconos8.es/icon/y7WGoWNuIWac/visual-studio"
+    height="40"
+    alt="vscode logo"
+  />
+  <img width="12" />
 </div>
 
 ###
