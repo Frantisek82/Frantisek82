@@ -103,6 +103,12 @@
   />
   <img width="12" />
   <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
+    height="40"
+    alt="linux logo"
+  />
+  <img width="12" />
+  <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg"
     height="40"
     alt="windows logo"
@@ -110,12 +116,6 @@
   <img width="12" />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
-    height="40"
-    alt="linux logo"
-  />
-  <img width="12" />
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
     height="40"
     alt="linux logo"
   />
