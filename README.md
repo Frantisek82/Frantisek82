@@ -115,5 +115,12 @@
   />
   <img width="12" />
 </div>
+<img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
+    height="40"
+    alt="linux logo"
+  />
+  <img width="12" />
+</div>
 
 ###
