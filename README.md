@@ -56,7 +56,7 @@
 <div align="center">
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-    height="40"
+    height="50"
     alt="github logo"
   />
   <img width="12" />
@@ -68,7 +68,7 @@
   <img width="12" />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ssh/ssh-original-wordmark.svg"
-    height="40"
+    height="60"
     alt="ssh logo"
   />
   <img width="12" />
@@ -105,13 +105,13 @@
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
     height="40"
-    alt="linux logo"
+    alt="bootstrap logo"
   />
   <img width="12" />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg"
     height="40"
-    alt="windows logo"
+    alt="windows11 logo"
   />
   <img width="12" />
   <img
@@ -120,10 +120,16 @@
     alt="linux logo"
   />
   <img width="12" />
-   <img
+  <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
     height="40"
     alt="react logo"
+  />
+  <img width="12" />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg"
+    height="60"
+    alt="mysql logo"
   />
   <img width="12" />
 </div>
