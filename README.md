@@ -127,6 +127,18 @@
   />
   <img width="12" />
   <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
+    height="40"
+    alt="react logo"
+  />
+  <img width="12" />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg"
+    height="40"
+    alt="react logo"
+  />
+  <img width="12" />
+  <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg"
     height="60"
     alt="mysql logo"
@@ -145,14 +157,14 @@
   />
   <img width="12" />
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-original.svg"
-    height="50"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"
+    height="40"
     alt="mysql logo"
   />
   <img width="12" />
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"
-    height="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-original.svg"
+    height="50"
     alt="mysql logo"
   />
   <img width="12" />
