@@ -168,6 +168,12 @@
     alt="mysql logo"
   />
   <img width="12" />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/php-original.svg"
+    height="50"
+    alt="mysql logo"
+  />
+  <img width="12" />
 </div>
 
 ###
