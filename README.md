@@ -129,13 +129,13 @@
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
     height="40"
-    alt="react logo"
+    alt="nodejs logo"
   />
   <img width="12" />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg"
     height="40"
-    alt="react logo"
+    alt="npm logo"
   />
   <img width="12" />
   <img
@@ -147,13 +147,13 @@
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"
     height="40"
-    alt="mysql logo"
+    alt="mongodb logo"
   />
   <img width="12" />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg"
     height="60"
-    alt="mysql logo"
+    alt="mongoose logo"
   />
   <img width="12" />
   <img
@@ -165,13 +165,19 @@
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodemon/nodemon-original.svg"
     height="50"
-    alt="mysql logo"
+    alt="nodemon logo"
   />
   <img width="12" />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
     height="50"
-    alt="mysql logo"
+    alt="php logo"
+  />
+  <img width="12" />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original.svg"
+    height="50"
+    alt="symfony logo"
   />
   <img width="12" />
 </div>
