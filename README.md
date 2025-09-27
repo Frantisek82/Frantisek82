@@ -180,6 +180,18 @@
     alt="symfony logo"
   />
   <img width="12" />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"
+    height="50"
+    alt="docker logo"
+  />
+  <img width="12" />
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg"
+    height="50"
+    alt="jenkins logo"
+  />
+  <img width="12" />
 </div>
 
 ###
